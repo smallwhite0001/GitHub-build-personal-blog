@@ -7,11 +7,11 @@
   }
  ],
  "cover": "https://github.com/smallwhite0001/GitHub-build-personal-blog/blob/main/cover_GitHub-build-personal-blog.jpg?raw=true",
- "description": "本册子介绍零基础如何使用 GitHub 免费搭建博客。",
+ "description": "本册子介绍零基础如何使用 GitHub 免费搭建博客。涉及到 GitHub，VS code，git，Node.js 的基本使用，部署用的 Hexo 静态博客框架。",
  "license": "本册子由 Small white 在 XUE.cn 首发。",
  "name": "零基础 GitHub 免费搭建博客",
  "programming_language": "无",
- "category": "用户上传",
+ "category": "用户上传，WEB应用",
  "authors": [
   {
    "avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
@@ -20,7 +20,7 @@
    "role": "origin"
   }
  ],
- "publish_at": "2022-01-11T00:00:00",
+ "publish_at": "2022-04-19T00:00:00",
  "toc_level": 2,
  "version": "0.5"
 }
